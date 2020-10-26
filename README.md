@@ -1,6 +1,6 @@
-[![Header](https://github.com/itsjuliuscoder/itsjuliuscoder/master/julius_header.png "Header")](https://afrihow.com/)
+[![Header](https://raw.githubusercontent.com/itsjuliuscoder/itsjuliuscoder/main/julius_header.png)](https://afrihow.com/)
 
-### Dear Friends 👋
+<h1 align='center'>Dear Friends</h1>👋
 
 ✨ I'm Julius a Software Engineer residing in Lagos, Nigeria. I am passionate about bending the computer to my will by turning complex problems into simple solutions.
 
