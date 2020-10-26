@@ -1,4 +1,4 @@
-[![Header](https://raw.githubusercontent.com/itsjuliuscoder/itsjuliuscoder/master/julius_header.png "Header")](https://afrihow.com/)
+[![Header](https://github.com/itsjuliuscoder/itsjuliuscoder/master/julius_header.png "Header")](https://afrihow.com/)
 
 ### Dear Friends 👋
 
