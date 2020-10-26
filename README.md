@@ -1,4 +1,4 @@
-[![Header](https://raw.githubusercontent.com/itsjuliuscoder/itsjuliuscoder/main/julius_header.png)](https://afrihow.com/)
+[![Header](https://github.com/itsjuliuscoder/itsjuliuscoder/raw/main/julius_header.png)](https://afrihow.com/)
 
 <h1 align='center'>Dear Friends</h1>👋
 
