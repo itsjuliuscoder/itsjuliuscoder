@@ -4,7 +4,7 @@
 
 ✨ I'm Julius a Software Engineer residing in Lagos, Nigeria. I am passionate about bending the computer to my will by turning complex problems into simple solutions.
 
-Currently, I'm working on building fintech solutions that powers Mobile Money transactions across Africa with United Bank of Africa. I am a big fan of building digital solutions for Africa's growing population. When I'm not coding, I share my thoughts on Africa, Tech and any things that excites me on [Medium](https://medium.com/@juliusolajumokecoder)
+Currently, I'm working on building fintech solutions that powers Mobile Money transactions across Africa with United Bank of Africa. I am a big fan of building digital solutions for Africa's growing population. When I'm not coding, I share my thoughts on Africa, Tech and any thing that excites me on [Medium](https://medium.com/@juliusolajumokecoder)
 
 <!-- You can find me on ,  or on [![LinkedIn][3.2]][3]. -->
 
