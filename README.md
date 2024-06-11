@@ -15,6 +15,6 @@ Here are some ideas to get you started:
 -->
 
 - 👯 I’m looking to collaborate on: OpenSource Project
-- 💬 Ask me about: Mobile Money, PHP
+- 💬 Ask me about: Mobile Money, PHP, Nodejs, Python, Cloud Computing
 - 📫 How to reach me: [@itzjuliuscoder](https://twitter.com/itzjuliuscoder)
 - ⚡ Fun fact: I am a fan of [Chelsea Football Club](https://twitter.com/ChelseaFC) and a lover of Christian Country Music especially [Bill Gaither and his Homecoming Friends](https://www.youtube.com/channel/UCL7aOpP89MGVXrPu7Pzhhpw) you can [check this out](https://www.youtube.com/watch?v=WFj8qZ0OAHk&list=PLbJ2NNqPTeArZ7O7GWeLUQI5aApZXN22I&index=4)
