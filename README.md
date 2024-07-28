@@ -1,20 +1,39 @@
 [![Header](https://github.com/itsjuliuscoder/itsjuliuscoder/raw/main/julius_header.png)](https://afrihow.com/)
 
-<h1 align='center'>Hi Friends👋</h1>
+# 👋 Hi there, I'm Julius!
 
-✨ I'm Julius a Software Engineer residing in Lagos, Nigeria. I am passionate about bending the computer to my will by turning complex problems into simple solutions.
+I'm a **Senior Software Engineer** based in Lagos, Nigeria, with a passion for bending the computer to my will by turning complex problems into simple solutions.
 
-Currently, I'm working on building fintech solutions that powers Mobile Money transactions across Africa with United Bank of Africa. I am a big fan of building digital solutions for Africa's growing population. When I'm not coding, I share my thoughts on Africa, Tech and any thing that excites me on [Medium](https://medium.com/@juliusolajumokecoder)
+## 👨‍💻 About Me
+Currently, I'm working on building fintech solutions that power Mobile Money transactions across Africa with United Bank of Africa. I am a big fan of building digital solutions for Africa's growing population. When I'm not coding, I share my thoughts on Africa, Tech, and anything that excites me on [Medium](https://medium.com/@itzjuliuscoder).
 
-<!-- You can find me on ,  or on [![LinkedIn][3.2]][3]. -->
+### 🚀 My Current Projects
+- **Fintech Solutions**: Leading the engineering team at MeekFi, a fintech startup in Africa, where we're building modern financial infrastructure for under-served communities across Africa.
 
-<!--
-**itsjuliuscoder/itsjuliuscoder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🌍 Looking to Collaborate On
+- OpenSource Projects
+- **Next.js, Node.js, AWS**
 
-Here are some ideas to get you started:
--->
+### 💼 Open to New Opportunities
+- Looking to take up more remote roles for Full-stack Engineering.
+- Available to relocate to any country.
 
-- 👯 I’m looking to collaborate on: OpenSource Project
-- 💬 Ask me about: Mobile Money, PHP, Nodejs, Python, Cloud Computing
-- 📫 How to reach me: [@itzjuliuscoder](https://twitter.com/itzjuliuscoder)
-- ⚡ Fun fact: I am a fan of [Chelsea Football Club](https://twitter.com/ChelseaFC) and a lover of Christian Country Music especially [Bill Gaither and his Homecoming Friends](https://www.youtube.com/channel/UCL7aOpP89MGVXrPu7Pzhhpw) you can [check this out](https://www.youtube.com/watch?v=WFj8qZ0OAHk&list=PLbJ2NNqPTeArZ7O7GWeLUQI5aApZXN22I&index=4)
+### 📚 Ask Me About
+- Mobile Money
+- PHP, Node.js, Python
+- Cloud Computing
+
+### 📫 How to Reach Me
+- Twitter: [@itzjuliuscoder](https://twitter.com/itzjuliuscoder)
+
+### ⚡ Fun Fact
+I am a fan of Chelsea Football Club and a lover of Christian Country Music, especially Bill Gaither and his Homecoming Friends. You can check this out!
+
+---
+
+I am committed to writing clean code and adopt a strategy of **STAR** (Situation, Task, Action, Result) in problem-solving.
+
+---
+
+Feel free to connect with me or check out my work!
+
